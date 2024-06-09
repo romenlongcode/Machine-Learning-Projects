@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Collection of Machine Learning Projects for 
+Collection of Machine Learning Projects for p
